@@ -124,6 +124,7 @@ public class Application {
         }finally {
         	System.out.println("call finally");
         	//test git
+        	//test git commit
         }
     }
 
